@@ -1,6 +1,9 @@
 # rock_paper_scissor
 
-A little game
+Rock Paper Scissor game using flutter
+
+![Screenshot_1617442369](https://user-images.githubusercontent.com/57295358/113474461-b309de00-948d-11eb-97ea-d941d540aad0.png)
+
 
 ## Getting Started
 
